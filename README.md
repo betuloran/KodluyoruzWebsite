@@ -1,4 +1,5 @@
-# Kodluyoruz Website
+
+**Bu repo, kodluyoruz front-end patikasındaki ödevi içermektedir. HTML, CSS ve Bootstrap kullanarak Kodluyoruz'un örnek bir websitesini yaptım.**
 
 ![Ekran görüntüsü 2023-04-29 222704](https://user-images.githubusercontent.com/116026974/235321308-3b71bf10-7e74-4219-97db-b8915f5270db.png)
 
